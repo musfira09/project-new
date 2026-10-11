@@ -1,0 +1,6 @@
+{
+  "name": "Phinisi Cendekia",
+  "description": "Platform pembelajaran digital Literasi & Numerasi berbasis Budaya Phinisi & Kearifan Lokal Bulukumba untuk SD Kelas 4, 5, dan 6 karya Musfira, S.Pd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
